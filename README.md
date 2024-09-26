@@ -1,6 +1,6 @@
 # Fashion-Stylist
-**FashionStylistBot**
-FashionStylistBot is an AI-powered chatbot designed to assist users with fashion and styling advice. By integrating a vast fashion knowledge base, trends, and styling tips, this chatbot provides users with personalized outfit suggestions, seasonal fashion advice, and recommendations for wardrobe essentials. Whether you're looking to refresh your style, get ready for an event, or just stay updated on the latest trends, FashionStylistBot is here to help.
+**FashionStylist**
+FashionStylist is an AI-powered chatbot designed to assist users with fashion and styling advice. By integrating a vast fashion knowledge base, trends, and styling tips, this chatbot provides users with personalized outfit suggestions, seasonal fashion advice, and recommendations for wardrobe essentials. Whether you're looking to refresh your style, get ready for an event, or just stay updated on the latest trends, FashionStylist is here to help.
 
 **Features**
 Interactive chatbot interface for fashion-related questions.
@@ -11,10 +11,10 @@ Integration with online fashion retailers for real-time outfit suggestions and s
 Outfit color coordination and accessory pairing advice.
 
 **Installation**
-To get started with FashionStylistBot, follow these steps:
+To get started with FashionStylist, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/sureshrax/fashionstylistbot.git
+git clone https://github.com/sureshrax/fashionstylist.git
 cd FashionStylistBot
 
 Install the Gaia Node by running the following command:
@@ -28,7 +28,7 @@ gaianet start
 
 **How to Use**
 Open your web browser and navigate to the generated link.
-Start interacting with FashionStylistBot by typing your fashion-related questions (e.g., "What should I wear to a formal dinner?" or "What are the latest summer fashion trends?").
+Start interacting with FashionStylist by typing your fashion-related questions (e.g., "What should I wear to a formal dinner?" or "What are the latest summer fashion trends?").
 Receive personalized styling suggestions and advice tailored to your needs.
 
 **License**
